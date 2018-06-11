@@ -6,11 +6,11 @@ this is for me than it is for you (sorry) so it will only contain the things i n
 
 ## TODO
 ### string.h
- - [-] strlen
- - [-] memcmp
- - [-] memcpy
- - [-] memset
- - [-] memmove
+ - [x] strlen
+ - [x] memcmp
+ - [x] memcpy
+ - [x] memset
+ - [x] memmove
 
 
 ## TODO (if needed)
